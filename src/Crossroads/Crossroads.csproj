@@ -16,10 +16,6 @@
 		<PackageReference Include="Microsoft.Extensions.DependencyModel" Version="2.1.0" />
 		<PackageReference Include="Microsoft.NET.HostModel" Version="3.1.6" />
 	</ItemGroup>
-
-	<!--<ItemGroup>
-		<ProjectReference Include="..\Crossroads.Core\Crossroads.Core.csproj" />
-	</ItemGroup>-->
 	<ItemGroup>
 		<None Update="appsettings.json">
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
