@@ -12,7 +12,7 @@
 		<PackageReference Include="System.IO.Abstractions" Version="3.0.2" />
 	</ItemGroup>
 	<ItemGroup>
-	  <ProjectReference Include="..\Crossroads.Core\Crossroads.Core.csproj" />
+	  <ProjectReference Include="..\Crossroads\Crossroads.csproj" />
 	</ItemGroup>
 	<ItemGroup>
 	  <None Update="appsettings.json">
