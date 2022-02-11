@@ -20,7 +20,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace Crossroads.Test
+namespace Crossroads.Services.Test
 {
     public class ProcessServiceTests
     {

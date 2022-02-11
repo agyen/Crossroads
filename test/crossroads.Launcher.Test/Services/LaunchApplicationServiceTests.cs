@@ -11,8 +11,7 @@
  * or implied. See the License for the specific language governing permissions
  * and limitations under the License.
  */
-
-using Crossroads.Core;
+using Crossroads.Services;
 using Microsoft.Extensions.Configuration;
 using Moq;
 using System;

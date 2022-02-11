@@ -12,8 +12,6 @@
  * and limitations under the License.
  */
 
-using Crossroads;
-using Crossroads.Services;
 using Moq;
 using System;
 using System.Collections.Generic;

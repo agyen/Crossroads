@@ -12,9 +12,9 @@
  * and limitations under the License.
  */
 
-using Crossroads.Core;
 using Crossroads.Launcher.Commands;
 using Crossroads.Launcher.Services;
+using Crossroads.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
